@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "GenericParser/1.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/net20/GenericParsing.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net20/GenericParsing.dll": {
+            "related": ".XML"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericParser/1.1.5": {
+      "sha512": "eqskF3vQzajqRhvOmPjurLR3+jbmsvRsbDqbz4g56mBl0gvJk/XIPVnNbrANhl/C61ok46JB4LipFFW0itxCLQ==",
+      "type": "package",
+      "path": "genericparser/1.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "genericparser.1.1.5.nupkg.sha512",
+        "genericparser.nuspec",
+        "lib/net20/GenericParsing.XML",
+        "lib/net20/GenericParsing.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "GenericParser >= 1.1.5"
+    ]
+  },
+  "packageFolders": {
+    "/Users/collin.loertscher/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/collin.loertscher/Projects/CSVToJson/CSVToJson/CSVToJson.csproj",
+      "projectName": "TestCSVToJson",
+      "projectPath": "/Users/collin.loertscher/Projects/CSVToJson/CSVToJson/CSVToJson.csproj",
+      "packagesPath": "/Users/collin.loertscher/.nuget/packages/",
+      "outputPath": "/Users/collin.loertscher/Projects/CSVToJson/CSVToJson/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/collin.loertscher/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "GenericParser": {
+            "target": "Package",
+            "version": "[1.1.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GenericParser 1.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GenericParser",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

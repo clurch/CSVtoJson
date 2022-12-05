@@ -1,0 +1,73 @@
+ {
+  "SessionId": "SR1",
+  "MasterCallId": null,
+  "UtcStart": "2022-08-16T12:15:00Z",
+  "UtcEnd": "2022-08-16T18:32:00Z",
+  "Contacts": [
+    {
+      "ReferenceId": "SocialResponseAgent",
+      "FirstName": "Social",
+      "LastName": "Response",
+      "Type": "agent",
+      "Messages": [
+        {
+          "Content": "Hello there, thanks for reaching out about your new iPhone! Congratulations on that! We’re excited to help out. \nTo start, we 
+want to make sure we’re on the same page. Are you referring to sharing your photo and name using the Messages app? If so, this managed in Settings > 
+Messages > Share Name and Photo. If enabled, this shares your name and photo that has been added to your account, once they update your contact card on
+ their side. If disabled, it would not share this information. \nWere you having a specific issue with this feature? If so, tell us more and we’ll take
+ it from there.",
+          "UtcTimestamp": "2022-08-16T12:16:00Z"
+        },
+        {
+          "Content": "Blocked contacts would not see those suggestions. Current contacts may not see those suggestion either if the update is changing 
+to a new Apple ID. If you are making a new Apple ID, please be aware that purchases and app downloads are connected with the Apple ID used to download 
+those. Creating a new Apple ID will mean you lose access to that content. If you want to change the email associate with your Apple ID, see how here: 
+https://s.apple.com/dE4i8T6z4t",
+          "UtcTimestamp": "2022-08-16T13:50:00Z"
+        },
+        {
+          "Content": "Our pleasure! Let us know if we can help with anything else.",
+          "UtcTimestamp": "2022-08-16T14:29:00Z"
+        },
+        {
+          "Content": "We’ve got you covered. Check this put and let us know if it helps: https://s.apple.com/dE0B9U4i2X",
+          "UtcTimestamp": "2022-08-16T18:32:00Z"
+        }
+      ]
+    },
+    {
+      "ReferenceId": "SocialResponseCustomer",
+      "FirstName": "SocialResponseCustomer",
+      "LastName": "",
+      "Type": "customer",
+      "Messages": [
+        {
+          "Content": "Hello, hope you’re doing well! I’m getting a new iphone today and I want to make a new apple ID for it. However, I was wondering 
+if it’s possible for someone who has my phone number in their contacts list to see the new apple ID address (associated with my phone number) as well 
+as my full name? Also, if I have their number blocked, would that affect this in any way?",
+          "UtcTimestamp": "2022-08-16T12:15:00Z"
+        },
+        {
+          "Content": "Thanks!\nI mean when my contacts change their memoji or change their name on their apple ID my iMessage always suggests that I 
+can update their contact info or change their name in my contacts list etc. automatically. So I was wondering if the same thing would happen if I make 
+a new apple ID for myself but have the same old phone number associated with it as I do on my old apple ID.\nWould people on my blocked 
+contacts/numbers get those suggestions regarding my number name apple ID email etc.? Or would my contact information just stay the same on their 
+iphones since I have them blocked on iMessage and FaceTime?",
+          "UtcTimestamp": "2022-08-16T13:50:00Z"
+        },
+        {
+          "Content": "Okay, great! Thank you ❤️",
+          "UtcTimestamp": "2022-08-16T14:22:00Z"
+        },
+        {
+          "Content": "Hi again! One more thing, I just set up my new iPhone 13 and it’s having trouble connecting to FaceTime and iMessage with my 
+phone number. It’s either saying “waiting for activation” or that there’s an error and activation failed. The same thing has been happening on my 
+iPhone Xr for a couple days now and no matter what I do it just doesn’t work. Could this be a problem with my provider? Or is there anything else I can
+ do other than restarting the phone and turning FaceTime/iMessage off and then on again?",
+          "UtcTimestamp": "2022-08-16T18:02:00Z"
+        }
+      ]
+    }
+  ],
+  "Metadata": null
+}

@@ -1,0 +1,81 @@
+{
+  "SessionId": null,
+  "MasterCallId": null,
+  "UtcStart": "2022-08-15T09:26:27",
+  "UtcEnd": "2022-08-16T09:17:38",
+  "Contacts": [
+    {
+      "ReferenceId": null,
+      "FirstName": null,
+      "LastName": null,
+      "ContactType": "Customer",
+      "Messages": [
+        {
+          "Content": "@Apple I hooked my #iPhone13 up to my iTunes on my computer, and all my album covers are now wrong. This is driving me insane. Thanks. @Apple @AppleSupport",
+          "UtcTimeStamp": "2022-08-15T09:26:27"
+        },
+        {
+          "Content": "https://t.co/j7iUKWXCC1",
+          "UtcTimeStamp": "2022-08-15T09:35:05"
+        },
+        {
+          "Content": "https://t.co/JAMMac0M33",
+          "UtcTimeStamp": "2022-08-15T09:35:05"
+        },
+        {
+          "Content": "I have iTunes 12.9.2.5 on my 2012 iMac. iTunes was my backup I believe, other than what I have purchased from the store. https://t.co/Gunt3r1wAV\n",
+          "UtcTimeStamp": "2022-08-15T09:35:05"
+        },
+        {
+          "Content": "It shows correct on iTunes on computer but not phone. I lost some playlists that were on my phone but not computer",
+          "UtcTimeStamp": "2022-08-16T07:30:44"
+        },
+        {
+          "Content": "I uploaded a cd I bought to iTunes and I was wanted to put that on my phone so I hooked up my phone to transfer.",
+          "UtcTimeStamp": "2022-08-16T08:31:27"
+        },
+        {
+          "Content": "I did connect it more than once. I’m afraid to connect it again. I read it is an iPhone 13 glitch but I don’t know",
+          "UtcTimeStamp": "2022-08-16T09:17:38"
+        },
+        {
+          "Content": "Yes I did sync using iTunes, this was the first time I did that with my iPhone 13, and that’s when it got messed up",
+          "UtcTimeStamp": "2022-08-16T09:17:38"
+        }
+      ]
+    },
+    {
+      "ReferenceId": null,
+      "FirstName": null,
+      "LastName": null,
+      "ContactType": "Advisor",
+      "Messages": [
+        {
+          "Content": "Thanks for reaching out to us for support. We would love to help you. When you have a free moment, please DM us the version of iTunes your running on your computer so that we can look into this together. Also, do you have a backup of your music as well?\n\n",
+          "UtcTimeStamp": "2022-08-15T09:26:27"
+        },
+        {
+          "Content": "Thanks for the information. Other than your phone, are you seeing the correct album art in iTunes? Do you use either Apple Music or iTunes Match service? Are you missing any music now that your phone sync’d with your computer?",
+          "UtcTimeStamp": "2022-08-15T10:23:27"
+        },
+        {
+          "Content": "To confirm, do you sync your iPhone with iTunes on your computer in order to get your music onto your phone? Or do you also have Apple Music or iTunes Match?",
+          "UtcTimeStamp": "2022-08-16T07:30:44"
+        },
+        {
+          "Content": "Okay. Have you tried re-syncing any of the music with incorrect album artwork? If not, let’s try that next. ",
+          "UtcTimeStamp": "2022-08-16T08:31:27"
+        },
+        {
+          "Content": "To clarify, other than connecting the iPhone did you try syncing using the steps outlined here: https://s.apple.com/dE0n2U4M9Y \nIf not, try resyncing and let us know the results. We understand your reservations but can assure you this is an important step to help work towards a resolution. ",
+          "UtcTimeStamp": "2022-08-16T09:17:38"
+        },
+        {
+          "Content": "Got it. Try resyncing it and let us know how it goes. ",
+          "UtcTimeStamp": "2022-08-16T09:17:38"
+        }
+      ]
+    }
+  ],
+  "MetaData": null
+}
